@@ -1,0 +1,4 @@
+1	g00001	nuclear-genome-fasta	-	http://ftp.ensembl.org/pub/release-104/fasta/takifugu_rubripes/dna/Takifugu_rubripes.fTakRub1.2.dna.toplevel.fa.gz
+2	g00001	nuclear-genome-gff3	-	http://ftp.ensembl.org/pub/release-104/gff3/takifugu_rubripes
+3	g00002	nuclear-genome-fasta	-	http://ftp.ensembl.org/pub/release-104/fasta/danio_rerio/dna/Danio_rerio.GRCz11.dna.toplevel.fa.gz
+4	g00002	nuclear-genome-gff3	-	http://ftp.ensembl.org/pub/release-104/gff3/danio_rerio/Danio_rerio.GRCz11.104.chr.gff3.gz
