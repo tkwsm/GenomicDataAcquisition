@@ -52,6 +52,12 @@ end
 
 ######################################################
 
+def  error_message_01
+  print "USAGE: ruby gDataAcquisition.rb ./list4url ./list4taxonomy <db>\n"; 
+  exit;
+end
+#######################################################
+
 error_message_01 if ARGV.size != 3
 
 list4url_f      = ARGV.shift
