@@ -1,2 +1,10 @@
-g00001	31033
-g00002	7955
+g00001	31033	fugu_rubripes
+g00002	7955	danio_rerio
+g00003	8090	oryzias_latipes_hni
+g00004	69293	gasterosteus_aculeatus
+g00005	7950	clupea_harengus
+g00006	13489	dicentrarchus_labrax
+g00007	99883	tetraodon_nigroviridis
+g00008	8030	salmo_salar
+g00009	8049	gadus_morhua
+g00010	7962	cyprinus_carpio
